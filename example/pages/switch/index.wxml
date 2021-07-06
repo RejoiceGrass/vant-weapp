@@ -40,7 +40,7 @@
 
 <demo-block title="异步控制" padding>
   <van-switch
-    checked="{{ checked2 }}"
+    checked="{{ checked }}"
     size="36px"
     bind:change="onChange2"
   />
